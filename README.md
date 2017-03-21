@@ -72,7 +72,8 @@
 
 ### C Sharp
 
-* 
+* [Microsoft Visual C#](https://mitseu.files.wordpress.com/2014/08/microsoft_visual_c-sharp__2013_step_by_step.pdf)
+* [C# Programming](https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf)
 
 
 ### c++
@@ -95,8 +96,8 @@
 
 ### Databases
 
-* 
-
+* [DataBase Book - The Complete Book](http://fmi.dreamlords.org/3kurs/2sem/bd/Molina_Ullman_-_Database_Systems_-_The_Complete_Book__Prentice__2002_.pdf)
+* [Database Book](http://people.inf.elte.hu/miiqaai/elektroModulatorDva.pdf)
 
 ### Git
 
@@ -114,7 +115,8 @@
 
 ### Hacking
 
-* 
+* [Hacking - The Art of Explosion](https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf)
+* [HackingCiphers with Python](https://inventwithpython.com/hackingciphers.pdf)
 
 
 ### HTML / CSS
@@ -133,7 +135,8 @@
 
 ### JS
 
-* 
+* [JavaScript](http://www.tutorialspoint.com/javascript/javascript_tutorial.pdf)
+* [JavaScript Bible](http://www2.tjce.jus.br:8080/esmec/wp-content/uploads/2010/09/javascript_bible.pdf)
 
 
 
@@ -192,14 +195,16 @@
 
 ### rest
 
-*
+* [Restful Web API](http://sd.blackball.lv/library/RESTful_Web_APIs_(2013).pdf)
+
 
 
 
 
 ### Scala
 
-* 
+* [Scala Cookbook](http://itbookshub.com/download/?file=13639)
+* [Scala In Depth](http://dl.finebook.ir/book/52/13016.pdf)
 
 ### social
 
